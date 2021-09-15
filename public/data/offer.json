@@ -1,0 +1,28 @@
+{ 
+"offers":[
+{
+    "id":40000895,
+    "name": "Craig Johnson",
+    "salary": 90000,
+    "bonus": 15000,
+    "company": "Accenture",
+    "offerDate": "2021-10-12"
+},
+{
+    "id":40000896,
+    "name": "Rachel Doe",
+    "salary": 80000,
+    "bonus": 15000,
+    "company": "EY",
+    "offerDate": "2021-10-12"
+
+
+
+}
+
+
+
+
+
+]
+}
